@@ -1210,6 +1210,34 @@
       "climate": "cold",
       "terrain": "rocky",
       "population": "1"
+    },
+    {
+      "name": "Earth",
+      "climate": "Mixed",
+      "terrain": "Rocky",
+      "population": "8,000,000,000",
+      "id": 61
+    },
+    {
+      "name": "Earth",
+      "climate": "Mixed",
+      "terrain": "Rocky",
+      "population": "8,000,000,000",
+      "id": 62
+    },
+    {
+      "name": "mars",
+      "climate": "Hot",
+      "terrain": "Rock",
+      "population": "1",
+      "id": 63
+    },
+    {
+      "name": "mars",
+      "climate": "Hot",
+      "terrain": "Rock",
+      "population": "1",
+      "id": 64
     }
   ]
 }
